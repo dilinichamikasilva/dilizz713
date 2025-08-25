@@ -64,7 +64,7 @@
 ---
 
 ![Dilini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilizz713&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilizz713&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dilizz713)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilizz713&layout=compact&theme=radical)
 
 
