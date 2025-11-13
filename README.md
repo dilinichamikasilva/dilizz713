@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Dilini Silva**
+# 👋 Hey there! I'm **Dilini Chamika Silva**
 
 > 🚀 Tech enthusiast | 💻 Coder | 🌱 Lifelong Learner
 
